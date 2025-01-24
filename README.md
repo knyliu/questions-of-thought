@@ -1,7 +1,3 @@
-以下是基於你描述的架構所撰寫的 GitHub README 範例：
-
----
-
 # Questions-of-Thought (QoT) Framework
 
 The **Questions-of-Thought (QoT)** framework is a systematic algorithm designed to decompose a goal into sequential steps and solve each step by leveraging a chain of questions. This structured approach ensures that intermediate reasoning is recorded and updated progressively, enabling efficient and comprehensive problem-solving.
